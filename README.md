@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://images.app.goo.gl/V36tkrRnhNrTTCW89" alt="GIF legal" width="400"/>
+</p>
+
+
 ## Hi there, I'm Ryan Carlos and Welcome to my profile. 👋
 
 - ⚡ Developer Back-And...
