@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/V36tkrRnhNrTTCW89" alt="GIF legal" width="400"/>
+  <img src"original-2b972d38662cf2d12fede3d824f906bd.gif" alt="GIF legal" width=450"/>
 </p>
 
 
