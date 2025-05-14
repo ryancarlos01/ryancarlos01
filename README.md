@@ -7,7 +7,7 @@
 ### <p align="center">Welcome to my profile</p>
 - ⚡ I am Developer Back-And...
 - 🌱 I’m currently learning Systems Analysis and Development...
-- 💬 Ask me about: I'm 20 years old, I'm from Cabréuva, São Paulo, and I'm an outgoing guy who's easy to make friends with. I love technology and I'm passionate about the field. I'm currently just studying and practicing programming, "it's hard to find a job in the field lol". In my free time, I like to study, read books, play video games, and play sports (soccer, basketball, tennis, etc.).
+- 💬 Ask me about: I'm 20 years old, I'm from Cabréuva, São Paulo, and I'm an outgoing guy who's easy to make friends with. I love technology and I'm passionate about the field. I'm currently just studying and practicing programming, "it's hard to find a job in the field lol". In my free time, I like to study, read books, play video games, and play sports (soccer, basketball, tennis, etc.). I'm studying and working hard to soon become a Fullstack developer and get a well-paid job in the market. I create systems, automate tasks or daily activities depending on the client's needs. I also work as an independent contractor.
 
 ### 👨🏼‍💻Languages:
 <div style="display: inline_block"><br>
