@@ -3,11 +3,11 @@
 </p>
 
 
-## Hi there, I'm Ryan Carlos and Welcome to my profile. 👋
-
-- ⚡ Developer Back-And...
+## Hi there, I'm Ryan Carlos 👋
+### <p align="center">Welcome to my profile</p>
+- ⚡ I am Developer Back-And...
 - 🌱 I’m currently learning Systems Analysis and Development...
-- 💬 Ask me about ...
+- 💬 Ask me about: I'm 20 years old, I'm from Cabréuva, São Paulo, and I'm an outgoing guy who's easy to make friends with. I love technology and I'm passionate about the field. I'm currently just studying and practicing programming, "it's hard to find a job in the field lol". In my free time, I like to study, read books, play video games, and play sports (soccer, basketball, tennis, etc.).
 
 ### 👨🏼‍💻Languages:
 <div style="display: inline_block"><br>
